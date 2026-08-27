@@ -16,5 +16,5 @@ remotes::install_github('byzheng/rapsimng.fababean')
 
 For detailed documentation and reference, visit: https://fababean.rapsimng.bangyou.me
 
----
+
 
