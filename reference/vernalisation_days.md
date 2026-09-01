@@ -46,10 +46,6 @@ effective vernalisation time at three hour intervals between the daily
 minimum and maximum temperatures, and then averaging these values to get
 the daily vernalisation time.
 
-For more information about the fababean phenology model, see the [APSIM
-Next Generation fababean
-Documentation](https://apsimng-notes.bangyou.me/docs/Plants/fababean/Phenology/Vegetative.html).
-
 ## Examples
 
 ``` r

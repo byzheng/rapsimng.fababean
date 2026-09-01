@@ -60,7 +60,7 @@ thermal time at three hour intervals between the daily minimum and
 maximum temperatures, and then averaging these values to get the daily
 thermal time. For more information about the fababean phenology model,
 see the [APSIM Next Generation fababean
-Documentation](https://notes.apsimng.bangyou.me/docs/Plants/fababean/Phenology/ThermalTime.html).
+Documentation](https://notes.apsimng.bangyou.me/docs/Plants/Fababean/Phenology/ThermalTime.html).
 
 ## Examples
 
