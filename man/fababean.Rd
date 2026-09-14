@@ -6,6 +6,9 @@
 \usage{
 fababean
 }
+\value{
+An option manager object for configuring fababean model parameters.
+}
 \description{
 An options manager for configuring fababean model parameters. This object provides
 methods to get and set fababean related parameters.
