@@ -9,6 +9,10 @@ object provides methods to get and set fababean related parameters.
 fababean
 ```
 
+## Value
+
+An option manager object for configuring fababean model parameters.
+
 ## Available Options
 
 - phenology.thermal_time.x:
