@@ -2,7 +2,7 @@ pandoc: 3.8.3
 pkgdown: 2.2.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2026-09-24T05:44Z
+last_built: 2026-09-24T05:45Z
 urls:
   reference: https://fababean.rapsimng.bangyou.me/reference
   article: https://fababean.rapsimng.bangyou.me/articles

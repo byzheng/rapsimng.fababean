@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/byzheng/rapsimng.fababean/blob/master/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/byzheng/rapsimng.fababean/blob/v0.1.0/DESCRIPTION)
 
 Zheng B (2026). *rapsimng.fababean: Crop-Specific Functions and
 Parameters for APSIM Next Generation Fababean Model*. R package version
