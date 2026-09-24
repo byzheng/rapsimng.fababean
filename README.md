@@ -1,5 +1,10 @@
 [![R-CMD-check.yaml](https://github.com/byzheng/rapsimng.fababean/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/byzheng/rapsimng.fababean/actions/workflows/R-CMD-check.yaml)
 
+[![](http://cranlogs.r-pkg.org/badges/grand-total/rapsimng.fababean?color=green)](https://cran.r-project.org/package=rapsimng.fababean)
+[![](http://cranlogs.r-pkg.org/badges/last-month/rapsimng.fababean?color=green)](https://cran.r-project.org/package=rapsimng.fababean)
+[![](http://cranlogs.r-pkg.org/badges/last-week/rapsimng.fababean?color=green)](https://cran.r-project.org/package=rapsimng.fababean)
+
+
 # rapsimng.fababean
 
 Fababean model for APSIM Next Generation.
